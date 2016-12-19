@@ -1,6 +1,23 @@
-theme: jekyll-theme-dinky
+title: Squirrely Girl Produce
+email: squirrely.girl.produce@gmail.com
+description: >
+  Hobby farm exploring Joel Salatin's pastured poultry techniques
+  with ducks and geese.
+theme: minima
+#markdown: kramdown
+repository: sgproduce/sgproduce.github.io
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+  posts:
+    output: true
 gems:
   - jekyll
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-feed
   - github-pages
+exclude:
+  - Gemfile
+  - Gemfile.lock
