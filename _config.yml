@@ -4,12 +4,17 @@ description: >
   Hobby farm exploring Joel Salatin's pastured poultry techniques
   with ducks and geese.
 theme: minima
-#markdown: kramdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
 repository: sgproduce/sgproduce.github.io
 collections:
+  plans:
+    output: true
   projects:
     output: true
-    permalink: /projects/:path/
+    permalink: /:collection/:path/
   posts:
     output: true
 gems:
@@ -21,5 +26,18 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - README.md
 
 timezone: America/New_York
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "/posts"
+    values:
+      layout: "post"
