@@ -172,3 +172,6 @@ Smaller for up to 75 chicks
     * 2q 3'x2"x2"
     * 2q 2'x2"x2"
 
+# References
+  - [Mini Brooder](http://urban-agrarian.blogspot.com/2007/02/mini-ohio-boooder.html)
+  - [New Electric Lamp Brooder](https://web.extension.illinois.edu/hkmw/downloads/46524.pdf)
