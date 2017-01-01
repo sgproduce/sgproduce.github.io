@@ -10,6 +10,8 @@ kramdown:
   hard_wrap: false
 repository: sgproduce/sgproduce.github.io
 collections:
+  ideas:
+    output: true
   plans:
     output: true
   projects:
