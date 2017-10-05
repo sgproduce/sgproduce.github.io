@@ -39,4 +39,8 @@ They're enjoying the space and the ability to move around and they can see all o
 * Better power cord organization
   * Need trip free path to individual brooders or heat lamps
 * Instructions to fill out order with another bird that appears different
-
+* Soak locations for anchors ahead of time
+* Attach base of portable garage to 2x4s with merchant wire cross bracing
+  * A rigid structure will be easier to move
+  * Easier to square structure
+  * Easier to know where to soak ground for anchors
