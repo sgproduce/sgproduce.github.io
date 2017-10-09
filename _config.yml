@@ -19,7 +19,7 @@ collections:
     permalink: /:collection/:path/
   posts:
     output: true
-gems:
+plugins:
   - jekyll
   - jekyll-seo-tag
   - jekyll-sitemap
