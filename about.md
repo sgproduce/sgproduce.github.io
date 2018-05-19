@@ -17,4 +17,8 @@ We offer fresh duck eggs for $7/dozen.  We collect eggs each morning and immedia
 
 We offer fresh goose eggs in season for $2 each or three for $5.
 
-Reserve a Thanksgiving or Christmas goose for $12.
+Reserve a Thanksgiving or Christmas goose for $12.  Final price varies based on feed consumption.
+
+We're looking for fertile eggs from hearty chickens.
+* Layer must be atleast two years old.
+* Prefer birds that escaped unscathed from racoon predation.
