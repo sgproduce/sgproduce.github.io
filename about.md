@@ -2,23 +2,31 @@
 layout: page
 title: About
 permalink: /about/
-date: 2018-05-19
+date: 2019-05-11
 ---
 
-We are a hobby farm exploring Joel Salatin's pastured poultry techniques with ducks and geese.
+## Turning Grass Into Eggs
 
-Our current flock:
-* Three Toulouse geese
-* Four Toulouse goslings
-* Six Toulouse goose eggs in the incubator, expect June 12th hatching
-* Eight Silver Appleyard ducks (six hens, two drakes)
+Our
+[Toulouse](https://en.wikipedia.org/wiki/Toulouse_goose)
+geese mow down the grass for the
+[Silver Appleyard](https://en.wikipedia.org/wiki/Silver_Appleyard)
+ducks eat weeds and bugs.
+Our birds enjoy continuous fresh water from automatic drinkers.
+Our birds also enjoy supplemental feed in the afternoons.
+They love the occasional kitchen scraps.
 
-We offer fresh duck eggs for $7/dozen.  We collect eggs each morning and immediately refrigerate.
+We are grateful for the eggs and lush grass they produce.
 
-We offer fresh goose eggs in season for $2 each or three for $5.
+## Why Portable Pens
 
-Reserve a Thanksgiving or Christmas goose for $12.  Final price varies based on feed consumption.
+* Predator protection from ground and air
+* Fresh air and sunlight
+* Protection from wind and rain
+* New grass, weeds, and bugs each day
+* No fences to restrict access to the land
 
-We're looking for fertile eggs from hearty chickens.
-* Layer must be atleast two years old.
-* Prefer birds that escaped unscathed from racoon predation.
+## What next
+
+* Chickens for weed seed control and fine dry manure and eggs for the cautious
+* [Pilgrim](https://en.wikipedia.org/wiki/Pilgrim_goose) geese for meat and eggs
