@@ -38,3 +38,8 @@ We are grateful for the eggs and lush grass they produce.
 
 * Chickens for weed seed control and fine dry manure and eggs for the cautious
 * [Pilgrim](https://en.wikipedia.org/wiki/Pilgrim_goose) geese for meat and eggs
+
+
+### Thank You
+
+Chris and Liz Dukes
